@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.sims_technichus_2022-20979098.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Code/repos/SIMS_Technichus_2022/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "SIMS_Technichus_2022-20979098 [UE Editor]"
+				}
+			}
+		}
+	]
+}
